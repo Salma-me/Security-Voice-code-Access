@@ -1,4 +1,4 @@
-# Security Voice-code Acccess
+# Security Voice-code Access
 ## Introduction
 Security Voice-code Acccess is a software component designed for implementing security voice-code access systems based on fingerprint and spectrogram concepts. 
 ## Features
